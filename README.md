@@ -52,3 +52,4 @@ A lightweight Flask-based web application for text processing. This utility prov
 **mastar123-prog**
 
 For questions, issues, or contributions, please open an issue on the repository.
+[![Clone Repository](https://shields.io)](https://github.com/mastar123-prog/some-repo)
