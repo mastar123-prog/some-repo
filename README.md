@@ -16,7 +16,7 @@ A lightweight Flask-based web application for text processing. This utility prov
 
 ### Prerequisites
 - Python 3.6 or higher
-- pip (Python package installer)
+- pip
 
 ### Steps
 
