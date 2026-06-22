@@ -27,7 +27,7 @@ HTML_TEMPLATE = """
 <div class="container">
     <h2>Text Analyzer Utility</h2>
     <form method="POST">
-        <textarea name="text_input" placeholder="Type or paste your text here..." required>{{ original_text }}</textarea>
+        <textarea name="text_input" placeholder="Type or paste your text here: " required>{{ original_text }}</textarea>
         
         <div class="radio-group">
             <label><input type="radio" name="operation" value="upper" {% if op == 'upper' or not op %}checked{% endif %}> UPPERCASE</label>
