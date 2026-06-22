@@ -3,7 +3,7 @@ from flask import Flask, request, render_template_string
 app = Flask(__name__)
 
 # Single-file HTML template with embedded styling
-HTML_TEMPLATE = ""
+HTML_TEMPLATE = """
 <!DOCTYPE html>
 <html lang="en">
 <head>
